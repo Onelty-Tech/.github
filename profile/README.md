@@ -8,7 +8,7 @@
 
 # 🎮 Onelty Games
 Desarrolladora de videojuegos multiplataforma
-🌐** Web | 📱 Android | 💻 PC**
+🌐**Web | 📱 Android | 💻 PC**
 👨‍💻 Somos un equipo independiente de 3 desarrolladores creando juegos únicos, accesibles y divertidos para todos los dispositivos.
 🎯 Apostamos por la innovación, el diseño funcional y la experiencia del jugador.
 💡 Juegos creativos, rápidos de jugar y pensados para todos los públicos.
