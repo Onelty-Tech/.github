@@ -23,9 +23,9 @@ las necesidades del usuario, ofreciendo **software** de **calidad**, **innovando
 Lenguaje de programacion experimental, diseñado y desarrollado para seguir aprendiendo.
 ```
 
-- DugonLTP
+- DugonSNAP
 ```
-Software de mensajeria rapido y eficiente.
+Software de mensajeria inteligente rapido y eficiente.
 ```
 
 - ExpansiveBD
