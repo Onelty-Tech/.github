@@ -25,7 +25,9 @@ Lenguaje de programacion experimental, diseñado y desarrollado para seguir apre
 
 - DugonSNAP
 ```
-Software de mensajeria inteligente rapido y eficiente.
+"Cuando los datos se vuelven acciones"
+
+Con DugonSNAP, los datos se transforman en acciones. Cree redes inteligentes donde, en lugar de enviar solo información cruda, como ocurre habitualmente en los Message Brokers, se envían acciones concretas a realizar en el objetivo. Aquí, tus intenciones generan un efecto inmediato en el objetivo. Además, con DugonSNAP puedes crear y utilizar comportamientos predefinidos, logrando una comunicación flexible y eficiente dentro de la red.
 ```
 
 - ExpansiveBD
