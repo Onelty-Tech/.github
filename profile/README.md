@@ -1,36 +1,24 @@
-## Hi there 👋
+# 🚀 [Onelty-Tech]
 
+Jóvenes apasionados por crear y desarrollar ideas que rompen lo común y reinventan lo ordinario. 🌟
 
-**Onelty Software Tech. Innovative projects and more**
+## 💡 Nuestra Misión
+Innovar y ofrecer soluciones frescas a problemas reales. Creemos que la creatividad y la curiosidad pueden cambiar paradigmas y abrir nuevas oportunidades.
 
+## 👩‍💻 Quiénes Somos
+Un equipo de jóvenes inquietos, curiosos y motivados por transformar ideas en proyectos concretos. Nos encanta experimentar, aprender y dejar huella con cada iniciativa.
 
+## 🔧 Qué Hacemos
+Nos dedicamos a crear software propio, incluyendo:
+- **SaaS (Software como Servicio) open source**  
+- Aplicaciones y programas basados en nuestras propias ideas  
+- Prototipos y experimentos tecnológicos que desafían lo establecido  
 
-# 🎮 Onelty Tech
-Una **Startup** en su fase inicial, diseñada para satisfacer
-las necesidades del usuario, ofreciendo **software** de **calidad**, **innovando** y **potenciando** cada proyecto que desarrollamos.
+No buscamos desarrollar copias de otros softwares; nuestro enfoque es crear ideas nuevas. Si nos inspiramos en algo existente, siempre es para mejorarlo, adaptarlo y aportar nuestra visión única.
 
+## 🌱 Por Qué Empezamos
+Porque creemos que la edad no define el impacto que podemos generar. Queremos inspirar, crear y demostrar que las ideas frescas pueden transformar el mundo.
 
-🌐**Web | 📱 Android | 💻 Desktop**
-👨‍💻 Somos un equipo independiente creando **software** de buena **calidad**.
-🎯 Apostamos por la **innovación**, el diseño funcional y la experiencia del usuario.
-🚀 Pequeños, pero con grandes ideas y visión de futuro.
+---
 
-
-- Projects
-
-- Prawn Programming Lenguage
-```
-Lenguaje de programacion experimental, diseñado y desarrollado para seguir aprendiendo.
-```
-
-- DugonSNAP
-```
-"Cuando los datos se vuelven acciones"
-
-Con DugonSNAP, los datos se transforman en acciones. Cree redes inteligentes donde, en lugar de enviar solo información cruda, como ocurre habitualmente en los Message Brokers, se envían acciones concretas a realizar en el objetivo. Aquí, tus intenciones generan un efecto inmediato en el objetivo. Además, con DugonSNAP puedes crear y utilizar comportamientos predefinidos, logrando una comunicación flexible y eficiente dentro de la red.
-```
-
-- ExpansiveBD
-```
-Base de datos key,value.
-```
+💡 **Únete a nosotros y ayúdanos a transformar lo ordinario en extraordinario.**
