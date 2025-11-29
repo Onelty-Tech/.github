@@ -1,4 +1,4 @@
-# 🚀 [Onelty-Tech]
+# 🚀 -[Onelty-Tech]-
 
 Jóvenes apasionados por crear y desarrollar ideas que rompen lo común y reinventan lo ordinario. 🌟
 
